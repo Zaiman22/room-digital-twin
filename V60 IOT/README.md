@@ -5,7 +5,7 @@ I like V60 brew but I am to lazy. This is just the digitilaztion of the system. 
 The digitalization will use three.js for the visuaization and mqtt for the state of the machine. Will change if other method is found
  
 ## UI
-![UI](\docs\ui_ver1.png)
+![UI](https://github.com/Zaiman22/room-digital-twin/blob/main/V60%20IOT/docs/ui_ver1.png)
 
 This the current UI. The simplest work way of making this is using three.js and dotUI library. Three.js have an import function for many 3d file, such as 3dobj, stl, step, and glhf. I found that glhf is the best for web, but i found it hard since the objest i have is from solidworks which cannot export is easily. I used the stl import function and make the material in three.js. For assembly you probably need to do it in three.js and not solidworks, this include the mechanical mates, i used js for the mathemtical animation.
 
